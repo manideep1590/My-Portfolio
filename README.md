@@ -1,4 +1,4 @@
-# Mani Nagendla's Portfolio
+# Manideep Nagendla's Portfolio
 
 This portfolio is built using **TailwindCSS**, **React**, and libraries like **react-icons** and **framer-motion**.  
 It showcases my work as an AI/ML Engineer across healthcare, banking, financial services and enterprise analytics — from predictive modelling and LLM fine‑tuning to scalable MLOps and Generative&nbsp;AI systems.  
