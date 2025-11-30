@@ -6,7 +6,7 @@ const Contact = () => (
       <a className="underline" href="tel:+17743009506">+1 (774) 300&nbsp;9506</a>
       <div className="space-x-4">
         <a className="underline" href="https://www.linkedin.com/in/n-mani-118213376/" target="_blank" rel="noreferrer">LinkedIn</a>
-        <a className="underline" href="#" target="_blank" rel="noreferrer">GitHub</a>
+        <a className="underline" href="https://github.com/manideep1590" target="_blank" rel="noreferrer">GitHub</a>
       </div>
     </div>
   </section>
