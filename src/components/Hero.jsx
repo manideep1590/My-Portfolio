@@ -64,7 +64,7 @@ const Hero = () => {
               animate="visible"
               className="text-[44px] md:text-[64px] font-extralight leading-tight"
             >
-              Mani
+              Manideep
               <br />
               Nagendla
             </motion.h1>
