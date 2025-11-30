@@ -6,7 +6,7 @@ import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 
 // Intro blurb shown on the landing page hero
-export const HERO_CONTENT = `Hi! I'm Mani Nagendla — an AI/ML Engineer with over 6 years of experience designing, building, and deploying production‑grade machine learning, deep learning, and Generative AI solutions across healthcare, banking, financial services, and enterprise analytics.`;
+export const HERO_CONTENT = `Hi! I'm Manideep Nagendla — an AI/ML Engineer with over 6 years of experience designing, building, and deploying production‑grade machine learning, deep learning, and Generative AI solutions across healthcare, banking, financial services, and enterprise analytics.`;
 
 // Description used in the About section
 export const ABOUT_TEXT = `AI/ML Engineer with 6+ years of experience designing, building, and deploying production‑grade machine learning, deep learning, and Generative AI solutions across healthcare, banking, financial services, and enterprise analytics environments. Skilled in feature engineering, model optimization, statistical modelling, and ML experimentation with hands‑on expertise in transformers, LLM fine‑tuning, retrieval‑augmented generation, and privacy‑preserving AI.`;
